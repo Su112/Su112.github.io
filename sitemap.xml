@@ -4,7 +4,21 @@
   <url>
     <loc>http://yoursite.com/2019/10/19/hello-world/</loc>
     
-    <lastmod>2019-10-19T03:12:35.013Z</lastmod>
+    <lastmod>2019-10-20T08:50:23.275Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2019-10-20T08:31:16.602Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2019-10-20T07:54:18.180Z</lastmod>
     
   </url>
   
