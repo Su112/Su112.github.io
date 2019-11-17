@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Unremitting</title>
+  <title>远程笔记</title>
   
   <subtitle>总得往前挪一挪</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-14T14:40:20.679Z</updated>
+  <updated>2019-11-17T14:49:39.038Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>粒子层叠、消息推送</title>
+    <link href="http://yoursite.com/2019/11/14/11.17/"/>
+    <id>http://yoursite.com/2019/11/14/11.17/</id>
+    <published>2019-11-14T14:46:32.600Z</published>
+    <updated>2019-11-17T14:49:39.038Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="Unity3d-UGUI-粒子效果层叠解决方案"><a href="#Unity3d-UGUI-粒子效果层叠解决方案" class="headerlink" title="Unity3d UGUI 粒子效果层叠解决方案"></a>Unity3d UGUI 粒子效果层叠解决方案</h5><ul><li>可以直接在覆盖层上加个canvas，改变sort让它大于粒子的排序就可以</li><li>renderQueue的方法来解决粒子和UI层叠的问题,<a href="https://blog.csdn.net/A13155283231/article/details/87987901" target="_blank" rel="noopener">参考</a></li></ul><h5 id="untiy中消息推送的三个函数"><a href="#untiy中消息推送的三个函数" class="headerlink" title="untiy中消息推送的三个函数"></a>untiy中消息推送的三个函数</h5><ul><li><a href="https://blog.csdn.net/qq_39741605/article/details/80855880" target="_blank" rel="noopener">参考博客</a></li><li>耗资源，优先考虑其他的实现方法，比如delegate</li></ul><h5 id="关于awake和start获得数据"><a href="#关于awake和start获得数据" class="headerlink" title="关于awake和start获得数据"></a>关于awake和start获得数据</h5><ul><li>如果只是获得本身数据可以写在awake,获得其他对象数据的工作在start中做</li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h5 id=&quot;Unity3d-UGUI-粒子效果层叠解决方案&quot;&gt;&lt;a href=&quot;#Unity3d-UGUI-粒子效果层叠解决方案&quot; class=&quot;headerlink&quot; title=&quot;Unity3d UGUI 粒子效果层叠解决方案&quot;&gt;&lt;/a&gt;Unity3d UGUI 粒子效果
+      
+    
+    </summary>
+    
+    
+    
+      <category term="unity" scheme="http://yoursite.com/tags/unity/"/>
+    
+  </entry>
   
   <entry>
     <title>2019</title>
